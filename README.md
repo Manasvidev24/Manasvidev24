@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Manasvidev24
-- 👀 I’m interested in WebDevelopment, Design, Automation
+- 👀 I’m interested in WebDevelopment, Design and Automation at present
 - 🌱 I’m currently learning django framework for web development
 - 💞️ I’m looking to collaborate on technical projects
 - 📫 How to reach me-
